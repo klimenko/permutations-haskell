@@ -1,5 +1,6 @@
 module Main where
 
+perms :: [t] -> [[t]] -- Any lists, not only Eq!
 perms zs = map (\z -> xi z zs) (perms' (ix zs)) where
 
  ix xx = ix' [] 0 xx where
