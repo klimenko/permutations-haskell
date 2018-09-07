@@ -1,2 +1,2 @@
 # permutations-haskell
-for my memory, this cost some hours of my life
+for my memory, this costed me some hours of my life
